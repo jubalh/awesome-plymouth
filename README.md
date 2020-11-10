@@ -64,3 +64,4 @@ plymouth-set-default-theme -R themename
 ## Theme collections
 * [adi1090x plymouth-themes](https://github.com/adi1090x/plymouth-themes)
 * [hrishabh23 plymouth-themes](https://github.com/hrishabh23/plymouth-themes)
+* [gnome-look.org](https://www.gnome-look.org/browse/cat/108/order/latest/)
