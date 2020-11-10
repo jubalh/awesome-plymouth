@@ -58,6 +58,7 @@ plymouth-set-default-theme -R themename
 * [plymouth-theme-aperture](https://github.com/irth/plymouth-theme-aperture)
 * [plymouth-theme-bgrt-mi](https://github.com/openmindead/plymouth-theme-bgrt-mi)
 * [plymouth-theme-hamara](https://tracker.debian.org/pkg/plymouth-theme-hamara)
+* [plymouth-theme-opensuse-beat](https://github.com/jubalh/plymouth-theme-opensuse-beat)
 * [plymouth-theme-scp](https://github.com/TechCiel/plymouth-theme-scp)
 * [plymouth-theme-simple-image/](https://github.com/barskern/plymouth-theme-simple-image)
 * [rpi3plymouth](https://github.com/naens/rpi3plymouth)
