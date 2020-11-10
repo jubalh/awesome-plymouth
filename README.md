@@ -55,6 +55,7 @@ plymouth-set-default-theme -R themename
 * [PlymouthTheme-Cat](https://github.com/krishnan793/PlymouthTheme-Cat)
 * [plymouth-theme-anarchistos](https://github.com/AnarchistOS/plymouth-theme-anarchistos)
 * [plymouth-theme-bgrt-mi](https://github.com/openmindead/plymouth-theme-bgrt-mi)
+* [plymouth-theme-hamara](https://tracker.debian.org/pkg/plymouth-theme-hamara)
 * [plymouth-theme-scp](https://github.com/TechCiel/plymouth-theme-scp)
 * [rpi3plymouth](https://github.com/naens/rpi3plymouth)
 * [ubntu darwin](https://github.com/ashutoshgngwr/ubuntu-darwin)
